@@ -9,7 +9,8 @@ A one stop solution for medicines available from different marketplaces . Prefec
 The Techstack Used
 - White + React JS (Frontend)
 
-  ![image](https://github.com/VeerSingh2104/MediBargain/assets/114865344/96071781-12fa-418f-82a5-c728887728ff)
+  ![image](https://github.com/VeerSingh2104/MediBargain/assets/114865344/f4cfc330-1949-4771-9137-4d11793e001d)
+
 
 - Puppeteer (A node.js library for Web Scrapping)
 
