@@ -7,7 +7,7 @@ A one stop solution for medicines available from different marketplaces . Prefec
 ![WhatsApp Image 2024-04-21 at 11 00 48_ee86c286](https://github.com/VeerSingh2104/MediBargain/assets/114865344/6823ae4a-f622-4307-b346-7841652fd773)
 
 The Techstack Used
-- White + React JS (Frontend)
+- Vite + React JS (Frontend)
 
   ![image](https://github.com/VeerSingh2104/MediBargain/assets/114865344/f4cfc330-1949-4771-9137-4d11793e001d)
 
