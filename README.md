@@ -8,7 +8,13 @@ A one stop solution for medicines available from different marketplaces . Prefec
 
 The Techstack Used
 - White + React JS (Frontend)
+
+  ![image](https://github.com/VeerSingh2104/MediBargain/assets/114865344/96071781-12fa-418f-82a5-c728887728ff)
+
 - Puppeteer (A node.js library for Web Scrapping)
+
+- ![image](https://github.com/VeerSingh2104/MediBargain/assets/114865344/0f912300-630a-4efb-90db-64c6a4eff0e9)
+
 
    Demo
   This Project on the basis of input provided by the user provides top relevant medicines from three market places (Apollo Pharmacy, Tata 1 Mg , Pharmeasy) and sorts it by the price , so that the user can choose what is best option available at the best price.
